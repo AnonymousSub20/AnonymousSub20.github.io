@@ -9,17 +9,17 @@ case is shown in the supplement material (section 1, Fig. 1-2).
 We use the GIF file for better display of motion and parallax between the inputs, both scenes have perspective difference and large object movements. Visual comparison on scens is showed  below the GIF image. 
 
 **Secne1 InCoffeshop**
-![InCoffeshop inputs](InCoffeeShop2.gif)
+![InCoffeshop inputs](images\InCoffeeShop2.gif)
 result comparison
-![InCoffeshop Visual Comparison](InCoffeeShop2.png)
+![InCoffeshop Visual Comparison](images\InCoffeeShop2.png)
 For scenes with complex motion (camera and objects), previous methods tend to generate artifacts in the regions with large motion or disparity (such as the wall with clock in scene 1 and human faces in scene 1 and scene 2), while our method can still produce ghosting-free results.
 
 **Secne2 OpeningPresentsWithGrandpa**
-![OpeningPresents inputs](OpeningPresentsWithGrandpa1.gif)
+![OpeningPresents inputs](images\OpeningPresentsWithGrandpa1.gif)
 result comparison
-![OpeningPresents Visual Comparison](OpeningPresentsWithGrandpa1.png)
+![OpeningPresents Visual Comparison](images\OpeningPresentsWithGrandpa1.png)
 
 **Secne3 GoingOutTheDoor**
-![OpeningPresents inputs](GoingOutTheDoor1.gif)
+![OpeningPresents inputs](images\GoingOutTheDoor1.gif)
 result comparison
-![OpeningPresents Visual Comparison](GoingOutTheDoor1.png)
+![OpeningPresents Visual Comparison](images\GoingOutTheDoor1.png)
