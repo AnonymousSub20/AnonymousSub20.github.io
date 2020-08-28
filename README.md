@@ -1,6 +1,6 @@
 # ACCV2020 author response
-### @R1, R3 
-![ablation study](ablation_study.png)
+### @R1, R3 Ablation Study
+![ablation study](images\ablation_study.png)
 ### @R2 Large Motion and Parallax
 **Large Parallax: ** An experiment on different baseline distances in the multi-camera
 case is shown in the supplement material (section 1, Fig. 1-2). 
